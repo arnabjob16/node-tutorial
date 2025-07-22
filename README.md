@@ -87,10 +87,3 @@ This document lists all the core concepts explored during the Node.js learning j
 - Dockerize Node.js App
 - CI/CD using GitHub Actions or GitLab CI
 
----
-
-📁 Folder-wise code organization, `.env` usage, `README` setup, and Swagger are integrated to simulate a production-ready system.
-
----
-
-Would you like me to also generate this as a downloadable `README.md` file or commit-ready GitHub template?
